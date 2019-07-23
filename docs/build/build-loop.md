@@ -226,5 +226,5 @@ If you get a message that your build failed, you're likely going to see a list o
     If you need help after trying the Build Errors page, please don't forget to provide the information requested in that page's "Posting for Help" section to help streamline the troubleshooting...including screenshots.
 
 ## Next Step: Jaeb's Loop Observational Study
-You're done building your Loop app...but first, if you are a USA Loop user, please read about the [Jaeb Observational Study](https://loopkit.github.io/loopdocs/build/jaeb-study/) before moving onto [Loop App setup](https://loopkit.github.io/loopdocs/operation/loop-settings/settings/)
+You're done building your Loop app...but first, if you are a USA Loop user, please read about the [Jaeb Observational Study](https://loopkit.github.io/loopdocs/build/jaeb-study/) before moving onto [Loop App setup](https://loopkit.github.io/loopdocs/operation/overview/)
 
